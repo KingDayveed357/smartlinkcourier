@@ -1,0 +1,892 @@
+[24-Jun-2024 18:25:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:25:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:25:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:25:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:26:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:26:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:26:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[24-Jun-2024 18:26:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[24-Jun-2024 18:27:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[24-Jun-2024 18:27:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[24-Jun-2024 18:27:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[24-Jun-2024 18:27:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[24-Jun-2024 18:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/header.php on line 11
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/header.php on line 11
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/header.php on line 11
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 8
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 8
+[25-Jun-2024 02:27:49 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 8
+[25-Jun-2024 02:36:56 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 02:36:56 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 02:36:56 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 02:37:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 02:37:12 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 02:37:12 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 02:37:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 02:37:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 02:37:31 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 02:37:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 02:37:55 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 02:37:55 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 02:38:30 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 02:38:30 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 02:38:30 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 03:31:03 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 03:31:03 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 20
+[25-Jun-2024 03:31:03 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 21
+[25-Jun-2024 19:49:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 19:49:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[25-Jun-2024 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[25-Jun-2024 19:52:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[25-Jun-2024 19:52:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[25-Jun-2024 19:54:51 UTC] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[25-Jun-2024 19:54:51 UTC] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[25-Jun-2024 19:54:51 UTC] PHP Notice:  Undefined index: login_name in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[26-Jun-2024 19:25:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[26-Jun-2024 19:25:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[26-Jun-2024 19:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[26-Jun-2024 19:26:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 3
+[26-Jun-2024 19:26:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[26-Jun-2024 19:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/login.php on line 9
+[26-Jun-2024 19:27:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 03:28:06 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 03:32:59 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:14:44 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:15:14 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:17:13 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:17:58 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:19:40 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:20:40 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:21:06 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:21:12 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:21:18 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[26-Jun-2024 20:21:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 3
+[26-Jun-2024 20:21:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 3
+[26-Jun-2024 20:21:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 65
+[26-Jun-2024 20:21:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 65
+[26-Jun-2024 20:22:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[26-Jun-2024 20:22:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[26-Jun-2024 20:22:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[26-Jun-2024 20:22:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:22:37 Asia/Manila] PHP Fatal error:  Cannot redeclare cleaninput() (previously declared in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php:30) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 30
+[26-Jun-2024 20:23:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:23:09 Asia/Manila] PHP Fatal error:  Cannot redeclare cleaninput() (previously declared in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php:30) in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 30
+[26-Jun-2024 20:23:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:23:29 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[26-Jun-2024 20:23:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[27-Jun-2024 04:23:48 Asia/Manila] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fewgprhw/promptparcelpros.com/admin/db_connect.php on line 2
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[26-Jun-2024 20:25:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[27-Jun-2024 04:27:11 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[27-Jun-2024 04:27:11 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[27-Jun-2024 04:27:11 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[27-Jun-2024 04:27:11 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: to_branch_id in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 7
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: from_branch_id in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 7
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: reference_number in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 24
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: sender_name in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 35
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: sender_address in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 37
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: sender_contact in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 39
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: recipient_name in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 46
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: recipient_address in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 48
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: recipient_contact in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 50
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: weight in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 61
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: height in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 63
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: price in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 65
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: width in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 71
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: length in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 73
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: type in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 75
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: branch in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 81
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: from_branch_id in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 81
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 81
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: type in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 82
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 90
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 93
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 96
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 99
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 102
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 105
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 108
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 111
+[27-Jun-2024 12:52:37 UTC] PHP Notice:  Undefined variable: status in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 114
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[27-Jun-2024 21:58:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[27-Jun-2024 22:01:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method Action::update_history() in /home/fewgprhw/promptparcelpros.com/admin/ajax.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/ajax.php on line 75
+[27-Jun-2024 22:08:20 Asia/Manila] PHP Notice:  Undefined variable: timestamp in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 327
+[27-Jun-2024 22:08:20 Asia/Manila] PHP Notice:  Undefined variable: timestamp in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 328
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[27-Jun-2024 14:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[28-Jun-2024 02:20:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[27-Jun-2024 21:19:37 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[28-Jun-2024 05:20:15 Asia/Manila] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 327
+[27-Jun-2024 21:23:26 UTC] PHP Notice:  Undefined index: id in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 24
+[28-Jun-2024 05:23:51 Asia/Manila] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 327
+[27-Jun-2024 21:27:43 UTC] PHP Notice:  Undefined index: id in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 24
+[27-Jun-2024 21:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 5
+[27-Jun-2024 21:35:44 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[28-Jun-2024 05:35:57 Asia/Manila] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 327
+[27-Jun-2024 21:37:40 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[27-Jun-2024 21:37:59 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[27-Jun-2024 21:38:14 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[27-Jun-2024 21:38:29 UTC] PHP Notice:  Undefined index: reference_number in /home/fewgprhw/promptparcelpros.com/admin/manage_parcel_history.php on line 3
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[29-Jun-2024 01:05:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[28-Jun-2024 22:56:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[06-Jul-2024 05:44:37 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[06-Jul-2024 05:44:37 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[06-Jul-2024 05:44:37 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[06-Jul-2024 05:44:37 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[06-Jul-2024 05:44:42 Asia/Manila] PHP Notice:  Undefined index: login_name in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[06-Jul-2024 19:20:43 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[06-Jul-2024 19:20:43 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[06-Jul-2024 19:20:43 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[06-Jul-2024 19:20:43 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[06-Jul-2024 19:20:43 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 10:18:57 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 10:18:57 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 10:18:57 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 10:18:57 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 10:18:57 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 10:25:30 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 10:25:30 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 10:25:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 10:25:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 10:25:30 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[07-Jul-2024 10:38:15 Asia/Manila] PHP Notice:  Undefined index: login_name in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[07-Jul-2024 10:38:38 Asia/Manila] PHP Notice:  Undefined index: login_name in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[07-Jul-2024 18:41:55 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 18:41:55 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 18:41:55 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 18:41:55 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 18:41:55 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 11:32:23 UTC] PHP Notice:  Undefined offset: 1 in /home/fewgprhw/promptparcelpros.com/admin/view_parcel.php on line 89
+[07-Jul-2024 19:32:54 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:32:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:32:54 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:32:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:33:08 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:33:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:33:08 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:33:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:33:24 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:33:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 19:33:24 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:33:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 19:36:38 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 19:36:38 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 19:36:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 19:36:38 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:29:08 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 20:29:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 20:29:08 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 20:29:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 20:29:10 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 20:29:10 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 20:29:10 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 20:29:10 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[07-Jul-2024 12:29:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[07-Jul-2024 20:41:01 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 20:41:01 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 20:41:01 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 20:41:01 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:41:06 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 20:41:06 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 20:41:06 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 20:41:06 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:41:18 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 20:41:18 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 20:41:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 20:41:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:41:18 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 20:44:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[07-Jul-2024 20:44:57 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 20:44:57 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 20:44:57 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 20:44:57 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 20:44:57 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 21:01:39 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 21:01:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 145
+[07-Jul-2024 21:01:39 Asia/Manila] PHP Notice:  Undefined index: img in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 21:01:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/admin_class.php on line 167
+[07-Jul-2024 21:23:35 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:23:35 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:23:35 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 21:24:10 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:10 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:10 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 21:24:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:17 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 85
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 21:24:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[07-Jul-2024 23:27:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 00:58:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 18:08:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 21:48:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 35
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 40
+[08-Jul-2024 21:59:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/fewgprhw/promptparcelpros.com/admin/index.php(54): include()
+#1 {main}
+  thrown in /home/fewgprhw/promptparcelpros.com/admin/parcel_list.php on line 43
+[09-Jul-2024 09:37:17 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[09-Jul-2024 09:37:17 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[09-Jul-2024 09:37:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[09-Jul-2024 09:37:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[09-Jul-2024 09:37:17 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 89
+[10-Jul-2024 11:59:07 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[10-Jul-2024 11:59:07 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[10-Jul-2024 11:59:07 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[10-Jul-2024 11:59:07 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[10-Jul-2024 11:59:07 Asia/Manila] PHP Notice:  Undefined index: login_branch_id in /home/fewgprhw/promptparcelpros.com/admin/new_parcel.php on line 89
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[10-Jul-2024 17:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_firstname in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 27
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_id in /home/fewgprhw/promptparcelpros.com/admin/topbar.php on line 42
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 4
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/sidebar.php on line 24
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 4
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 8
+[11-Jul-2024 15:03:20 Asia/Manila] PHP Notice:  Undefined index: login_name in /home/fewgprhw/promptparcelpros.com/admin/home.php on line 70
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[21-Nov-2024 19:02:18 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[22-Nov-2024 01:38:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Warning:  Undefined array key "recipient_email" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 344
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 344
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Warning:  Undefined array key "recipient_name" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 345
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 345
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Warning:  Undefined array key "sender_email" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 346
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 346
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Warning:  Undefined array key "sender_name" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 347
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 347
+[22-Nov-2024 01:47:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 01:53:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:489
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 489
+[22-Nov-2024 01:55:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:489
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 489
+[22-Nov-2024 01:56:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:489
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 489
+[22-Nov-2024 02:09:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:489
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 489
+[22-Nov-2024 02:17:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:505
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 505
+[22-Nov-2024 02:28:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 02:30:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 02:35:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 02:36:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 02:59:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[21-Nov-2024 19:01:56 UTC] PHP Warning:  Undefined variable $conn in /home/qbtiafjf/smartlinkcourier.com/admin/manage_parcel_history.php on line 11
+[21-Nov-2024 19:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qbtiafjf/smartlinkcourier.com/admin/manage_parcel_history.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/manage_parcel_history.php on line 11
+[22-Nov-2024 03:04:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 35
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[22-Nov-2024 06:57:15 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or to_branch_id = )  order by  unix_timestamp(date_created) desc' at line 1 in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php:42
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php(42): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/index.php(54): include('/home/qbtiafjf/...')
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 42
+[23-Nov-2024 01:08:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[23-Nov-2024 01:12:46 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[23-Nov-2024 01:34:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[23-Nov-2024 01:52:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[23-Nov-2024 01:57:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:377
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 377
+[23-Nov-2024 02:06:07 Asia/Manila] PHP Parse error:  Unclosed '{' on line 4 in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 555
+[23-Nov-2024 02:06:16 Asia/Manila] PHP Parse error:  Unclosed '{' on line 4 in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 555
+[23-Nov-2024 02:11:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:387
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 387
+[23-Nov-2024 02:14:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:387
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 387
+[23-Nov-2024 02:26:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 02:34:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 02:37:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 02:41:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 03:09:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 03:34:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 03:56:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:430
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 430
+[23-Nov-2024 06:04:34 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:04:38 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:04:58 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:07:28 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:07:45 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:07:52 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:07:58 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:10:33 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:12:00 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:12:08 Asia/Manila] PHP Fatal error:  Trait "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 4
+[23-Nov-2024 06:13:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:429
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(76): Action->update_history()
+#1 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 429
+[23-Nov-2024 06:34:52 Asia/Manila] PHP Warning:  Undefined array key "img" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:34:52 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:34:54 Asia/Manila] PHP Warning:  Undefined array key "img" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:34:54 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:35:01 Asia/Manila] PHP Warning:  Undefined array key "img" in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:35:01 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 153
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 35
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[23-Nov-2024 06:44:43 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or to_branch_id = )  order by  unix_timestamp(date_created) desc' at line 1 in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php:42
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php(42): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/index.php(54): include('/home/qbtiafjf/...')
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 42
+[23-Nov-2024 06:46:25 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:46:25 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:46:25 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[23-Nov-2024 06:46:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[23-Nov-2024 06:46:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[23-Nov-2024 06:46:31 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/new_parcel.php on line 103
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[23-Nov-2024 07:01:56 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[24-Nov-2024 03:10:10 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[24-Nov-2024 03:19:20 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 35
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[24-Nov-2024 21:25:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or to_branch_id = )  order by  unix_timestamp(date_created) desc' at line 1 in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php:42
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php(42): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/index.php(54): include('/home/qbtiafjf/...')
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 42
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[24-Nov-2024 21:30:17 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[24-Nov-2024 21:30:37 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:30:37 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[24-Nov-2024 21:30:37 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[24-Nov-2024 21:30:37 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[24-Nov-2024 21:30:37 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[24-Nov-2024 21:33:09 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[24-Nov-2024 21:37:59 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 04:15:52 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 04:15:52 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 04:15:52 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[26-Nov-2024 04:15:52 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[26-Nov-2024 04:15:52 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[26-Nov-2024 04:19:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 04:22:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 04:22:40 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[26-Nov-2024 05:55:25 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[26-Nov-2024 05:56:47 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 06:13:43 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 35
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 40
+[26-Nov-2024 17:11:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or to_branch_id = )  order by  unix_timestamp(date_created) desc' at line 1 in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php:42
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php(42): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/index.php(54): include('/home/qbtiafjf/...')
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 42
+[27-Nov-2024 04:27:11 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[27-Nov-2024 04:28:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[27-Nov-2024 05:40:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[27-Nov-2024 05:47:25 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reference_number' in 'where clause' in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php:504
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php(504): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/ajax.php(82): Action->get_parcel_heistory()
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/admin_class.php on line 504
+[27-Nov-2024 06:01:38 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:01:38 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:01:38 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[27-Nov-2024 06:01:38 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[27-Nov-2024 06:01:38 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[27-Nov-2024 06:27:07 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[27-Nov-2024 06:27:36 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/new_parcel.php on line 111
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[27-Nov-2024 06:34:42 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/new_parcel.php on line 111
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 36
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 41
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 41
+[28-Nov-2024 06:05:41 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or to_branch_id = )  order by  unix_timestamp(date_created) desc' at line 1 in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php:43
+Stack trace:
+#0 /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php(43): mysqli->query()
+#1 /home/qbtiafjf/smartlinkcourier.com/admin/index.php(54): include('/home/qbtiafjf/...')
+#2 {main}
+  thrown in /home/qbtiafjf/smartlinkcourier.com/admin/parcel_list.php on line 43
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[29-Nov-2024 16:25:44 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[29-Nov-2024 16:29:17 Asia/Manila] PHP Warning:  Undefined array key "login_branch_id" in /home/qbtiafjf/smartlinkcourier.com/admin/new_parcel.php on line 111
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_firstname" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Deprecated:  ucwords(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 27
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_id" in /home/qbtiafjf/smartlinkcourier.com/admin/topbar.php on line 42
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 4
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/sidebar.php on line 24
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 4
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_type" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 8
+[01-Dec-2024 02:53:56 Asia/Manila] PHP Warning:  Undefined array key "login_name" in /home/qbtiafjf/smartlinkcourier.com/admin/home.php on line 70
